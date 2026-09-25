@@ -43,7 +43,9 @@ Rather than treating churn as an unpreventable operational metric, the predictiv
 
 │   └── 02_modeling_evaluation.ipynb
 
-├── figures/
+├── reports/
+
+│   └── figures/  
 
 ├── README.md           
 
